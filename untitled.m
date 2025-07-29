@@ -57,3 +57,5 @@ title('无人机初始位置分布图', 'FontSize', 14);
 xlabel('X 坐标 (m)', 'FontSize', 12);
 ylabel('Y 坐标 (m)', 'FontSize', 12);
 legend('无人机位置', 'Location', 'northeast');
+
+a=10;%change2
